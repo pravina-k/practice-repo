@@ -10,6 +10,10 @@ int main()
         break;
     }
 
+<<<<<<< HEAD
+=======
+    
+>>>>>>> dacc
     if(flag==0)
     printf("Prime");
     else

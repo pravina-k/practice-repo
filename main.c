@@ -10,6 +10,7 @@ int main()
         break;
     }
 
+    
     if(flag==0)
     printf("Prime");
     else
